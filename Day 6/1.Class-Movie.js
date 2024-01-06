@@ -27,7 +27,6 @@ console.log(pgMovies);
 
 
 //output:
-
 [
   Movie { title: 'Movie 1', studio: 'Studio A', rating: 'PG' },
   Movie { title: 'Movie 4', studio: 'Studio D', rating: 'PG' }
